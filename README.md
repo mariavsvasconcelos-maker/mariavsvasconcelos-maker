@@ -60,7 +60,7 @@ Venho de uma carreira sólida no Direito, com passagens por grandes escritórios
 
 ### 📊 Estatísticas
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vascmaria&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariavsvasconcelos-maker&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
 </p>
 
 ---
