@@ -1,8 +1,8 @@
-<h1 align="center">Olá, eu sou a Maria Eduarda Vasconcelos! </h1>
+<h1 align="center">Olá, me chamo Maria Eduarda Vasconcelos </h1>
 
 <p align="center">
-  <strong>Desenvolvedora em Transição (Direito ➔ Tech )</strong><br>
-   Recife, Pernambuco |  26 anos
+  <strong>Desenvolvedora em Transição (Direito ➔ Tech)</strong><br>
+   Recife, Pernambuco | contato (81) 9 8846-0621 | 26 anos
 </p>
 
 <p align="center">
