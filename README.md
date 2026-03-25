@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Maria Eduarda Vasconcelos </h1>
+<h1 align="center">MARIA EDUARDA VASCONCELOS </h1>
 
 <p align="center">
   <strong>Desenvolvedora em Transição (Direito ➔ Tech)</strong><br>
@@ -12,7 +12,7 @@
 
 ---
 
-### 🎯 Objetivo
+###  Objetivo
 Almejo atuar na área de Tecnologia da Informação, contribuindo para o desenvolvimento e aprimoramento de sistemas e soluções tecnológicas eficientes e seguras. Busco aplicar meus conhecimentos em Análise e Desenvolvimento de Sistemas, colaborando com equipes na criação, análise e otimização de processos digitais. Tenho como foco agregar visão analítica, organização e compromisso com a inovação.**.
 
 ---
