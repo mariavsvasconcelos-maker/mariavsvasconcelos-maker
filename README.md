@@ -1,10 +1,69 @@
-<h1 align="center">Hi 👋, I'm Maria Eduarda</h1>
-<h3 align="center">A passionate developer from Brasil</h3>
+<h1 align="center">Olá, eu sou a Maria Eduarda Vasconcelos! 👋</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/vascmaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vascmaria" height="30" width="40" /></a>
+<p align="center">
+  <strong>Desenvolvedora em Transição (Direito ⚖️ ➔ Tech 💻)</strong><br>
+  📍 Recife, Pernambuco | 🎂 26 anos
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://instagram.com/vascmaria" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="vascmaria" /></a>
+  <a href="mailto:mariavsvasconcelos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
+
+---
+
+### 🎯 Objetivo
+Atuar na área de Tecnologia da Informação, aplicando minha visão analítica e foco em inovação no desenvolvimento de sistemas eficientes e seguros. Atualmente cursando o **2º período de ADS no CESAR School**.
+
+---
+
+### 🛠️ Linguagens e Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css3" />
+</p>
+
+- **Foco atual:** Testes de Software (QA), Python com IA e Full-Stack.
+- **Diferencial:** Inglês Intermediário (Worksplus).
+
+---
+
+### 🎓 Formação & Certificações
+* **Análise e Desenvolvimento de Sistemas** – CESAR School (Em andamento)
+* **Pós-Graduação em Direito Civil** – ESA (OAB/PE)
+* **Graduação em Direito** – UNIPESU
+* **Fundamentos do Teste de Software** – Udemy
+* **Python para Iniciantes com Suporte IA** – CESAR School
+
+---
+
+### 🚀 Projetos em Destaque (Tech)
+* **SmartFlora (Tech Design - CESAR School):** Desenvolvimento de um sistema hídrico inteligente.
+* **Demoday 2025 (Porto Digital - Capacita+):** Projeto focado em Metaverso e Realidade Estendida para ensino inclusivo (alunos neurodivergentes).
+* **Rocketseat:** Trilhas de desenvolvimento Full-Stack.
+
+---
+
+### ⚖️ Trajetória Profissional (Resumo)
+Venho de uma carreira sólida no Direito, com passagens por grandes escritórios (**Urbano Vitalino**), órgãos públicos (**Procon/DPPE**) e setor privado (**Auto Viação Progresso**). 
+
+**O que trago do Direito para a TI:**
+- Capacidade crítica de análise de dados e documentos.
+- Gestão de prazos e processos complexos.
+- Experiência em resolução de conflitos e atendimento consultivo.
+- Expertise em conformidade e regulamentações.
+
+---
+
+### 📊 Estatísticas
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vascmaria&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</p>
+
+---
+<p align="center">
+  <em>"Buscando transformar problemas complexos em soluções digitais simples e eficazes."</em>
+</p>
