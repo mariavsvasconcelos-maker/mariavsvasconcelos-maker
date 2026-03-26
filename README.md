@@ -3,6 +3,7 @@
 <p align="center">
   <strong>Desenvolvedora em Transição (Direito ➔ Tech)</strong><br>
    Recife, Pernambuco | contato (81) 9 8846-0621 | 26 anos
+[LinkedIn](www.linkedin.com/in/maria-eduarda-vasconcelos-5877401b7)
 </p>
 
 <p align="center">
