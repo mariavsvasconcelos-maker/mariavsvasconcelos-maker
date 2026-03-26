@@ -1,7 +1,7 @@
 <h1 align="center">MARIA EDUARDA VASCONCELOS </h1>
 
 <p align="center">
-  <strong>Desenvolvedora em Transição (Direito ➔ Tech)</strong><br>
+  <strong>Desenvolvedora em Transição (Direito ➔ Tecnologia)</strong><br>
    Recife, Pernambuco | contato (81) 9 8846-0621 | 26 anos 
 </p>
 
