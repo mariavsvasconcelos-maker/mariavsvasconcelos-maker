@@ -13,7 +13,7 @@
 ---
 
 ###  Objetivo
-Almejo atuar na área de Tecnologia da Informação, contribuindo para o desenvolvimento e aprimoramento de sistemas e soluções tecnológicas eficientes e seguras. Busco aplicar meus conhecimentos em Análise e Desenvolvimento de Sistemas, colaborando com equipes na criação, análise e otimização de processos digitais. Tenho como foco agregar visão analítica, organização e compromisso com a inovação.**.
+Almejo atuar na área de Tecnologia da Informação, contribuindo para o desenvolvimento e aprimoramento de sistemas e soluções tecnológicas eficientes e seguras. Busco aplicar meus conhecimentos em Análise e Desenvolvimento de Sistemas, colaborando com equipes na criação, análise e otimização de processos digitais. Tenho como foco agregar visão analítica, organização e compromisso com a inovação.
 
 ---
 
