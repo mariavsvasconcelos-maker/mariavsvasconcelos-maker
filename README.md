@@ -1,7 +1,7 @@
 <h1 align="center"> OLÁ, EU ME CHAMO MARIA EDUARDA VASCONCELOS </h1>
 
 <p align="center">
-  <strong>Desenvolvedora em Transição (Direito ➔ Tecnologia)</strong><br>
+  <strong>(Direito ➔ Tecnologia)</strong><br>
    Recife, Pernambuco | contato (81) 9 8846-0621 | 26 anos 
 </p>
 
