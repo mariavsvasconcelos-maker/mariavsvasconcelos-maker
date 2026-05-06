@@ -5,8 +5,6 @@
    Recife, Pernambuco | contato (81) 9 8846-0621 | 26 anos 
 </p>
 
-<p align="center">
-  <a href="https://instagram.com/vascmaria" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="vascmaria" /></a>
   <a href="mailto:mariavsvasconcelos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
