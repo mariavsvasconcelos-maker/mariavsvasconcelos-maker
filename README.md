@@ -46,36 +46,36 @@ Almejo atuar na área de Tecnologia da Informação, contribuindo para o desenvo
 
 **PROCON** 
 * Atendimento pessoal ao instituto Defesa do Consumidor. 
-* **Elaboração de termos e Contratos de Garantias. 
-* **Realização de acordo entre Consumidores e Fornecedores. 
-* **Orientar consumidores sobre os seus Direitos. 
-* **Resolução de conflitos entre Consumidores e Empresas.
+* Elaboração de termos e Contratos de Garantias. 
+* Realização de acordo entre Consumidores e Fornecedores. 
+* Orientar consumidores sobre os seus Direitos. 
+* Resolução de conflitos entre Consumidores e Empresas.
 
 **DEFENSORIA PÚBLICA DO ESTADO DE PERAMBUCO**
-* **Núcleo Direito do Consumidor. 
-* **Apoio aos Defensores Públicos e demais Servidores. Consultoria e Assessoria Jurídica Presencial. 
-* **Atendimento inicial a assistidos. Elaboração de peças processuais simples, como petições iniciais, contestações, recursos e manifestações. 
-* **Responsável pela coleta de provas e documentos. 
-* **Realização de pesquisas em Legislação, Jurisprudência e Doutrina com o objetivo de subsidiar a elaboração de peças processuais e pareceres jurídicos.
+* Núcleo Direito do Consumidor. 
+* Apoio aos Defensores Públicos e demais Servidores. Consultoria e Assessoria Jurídica Presencial. 
+* Atendimento inicial a assistidos. Elaboração de peças processuais simples, como petições iniciais, contestações, recursos e manifestações. 
+* Responsável pela coleta de provas e documentos. 
+* Realização de pesquisas em Legislação, Jurisprudência e Doutrina com o objetivo de subsidiar a elaboração de peças processuais e pareceres jurídicos.
 
 **ESCRITÓRIO URBANO VITALINO ADVOGADOS ENEL** 
-* **Distribuidora de Energia Elétrica - Rio de Janeiro. 
-* **Cumprimento Liminar. Cumprimento de Obrigação de Fazer. 
-* **Contestação.
-* **Cobranças via E-mail para Serviços Processuais Internos. 
-* **Responsável pelas documentações de Provas Comprobatórias para a Defesa. 
-* **Assessoria Jurídica.
+* Distribuidora de Energia Elétrica - Rio de Janeiro. 
+* Cumprimento Liminar. Cumprimento de Obrigação de Fazer. 
+* Contestação.
+* Cobranças via E-mail para Serviços Processuais Internos. 
+* Responsável pelas documentações de Provas Comprobatórias para a Defesa. 
+* Assessoria Jurídica.
 
 **AUTO VIAÇÃO PROGRESSO**
-* **Responsável pelo setor Jurídico Cível. 
-* **Auxiliando Administrativamente todas as movimentações do Jurídico Interno. 
-* **Responsável pelo recebimento de Mandado, Citação e Penhora. 
-* **Audiências Presenciais e Semipresenciais. 
-* **Gerenciamento de Subsídios Judiciais. 
-* **Representante da conexão cível entre a Empresa e os Escritórios. 
-* **Audiência Presencial: Direito Cível e Direito do Trabalho. 
-* **Acompanhamento dos Oficiais de Justiça. 
-* **Responsável pelos Acordos e Tratativas Jurídicas Operacionais, tais como: Reembolso, Extravio, Cancelamentos, Trocas de Passagens, Perda de Viagem, Acidentes com Vítima Fatal e Vítima não Fatal.
+* Responsável pelo setor Jurídico Cível. 
+* Auxiliando Administrativamente todas as movimentações do Jurídico Interno. 
+* Responsável pelo recebimento de Mandado, Citação e Penhora. 
+* Audiências Presenciais e Semipresenciais. 
+* Gerenciamento de Subsídios Judiciais. 
+* Representante da conexão cível entre a Empresa e os Escritórios. 
+* Audiência Presencial: Direito Cível e Direito do Trabalho. 
+* Acompanhamento dos Oficiais de Justiça. 
+* Responsável pelos Acordos e Tratativas Jurídicas Operacionais, tais como: Reembolso, Extravio, Cancelamentos, Trocas de Passagens, Perda de Viagem, Acidentes com Vítima Fatal e Vítima não Fatal.
 
 **O que trago do Direito para a TI:**
 - Capacidade crítica de análise de dados e documentos.
