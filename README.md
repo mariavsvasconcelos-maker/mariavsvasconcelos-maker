@@ -45,7 +45,7 @@ Almejo atuar na área de Tecnologia da Informação, contribuindo para o desenvo
 ###  Trajetória Profissional 
 
 **PROCON** 
-* **Atendimento pessoal ao instituto Defesa do Consumidor. 
+* Atendimento pessoal ao instituto Defesa do Consumidor. 
 * **Elaboração de termos e Contratos de Garantias. 
 * **Realização de acordo entre Consumidores e Fornecedores. 
 * **Orientar consumidores sobre os seus Direitos. 
