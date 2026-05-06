@@ -21,8 +21,8 @@ Almejo atuar na área de Tecnologia da Informação, contribuindo para o desenvo
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css3" />
 </p>
 
-- **Foco atual:** Testes de Software (QA), Python com IA e Full-Stack.
-- **Diferencial:** Inglês Intermediário (Worksplus).
+- **Foco atual:** Engenharia de Software com Python & AI Integration
+- **Diferencial:** Liderança Técnica (People Management) & English Proficiency (Worksplus).
 
 ---
 
