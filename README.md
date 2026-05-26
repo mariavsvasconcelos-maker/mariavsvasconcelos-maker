@@ -28,7 +28,7 @@ Almejo atuar na área de Tecnologia da Informação, contribuindo para o desenvo
 
 ###  Formação & Certificações
 * **Análise e Desenvolvimento de Sistemas** – CESAR School (Em andamento)
-* **Pós-Graduação em Direito Civil** – Escola Superior de Advocacia (OAB/PE)
+* **Duas Pós-Graduações em Direito Civil e Processo Civil** – Escola Superior de Advocacia (OAB/PE)
 * **Graduação em Direito** – UNIPESU
 * **Fundamentos do Teste de Software** – Udemy
 * **Python para Iniciantes com Suporte IA** – CESAR School
