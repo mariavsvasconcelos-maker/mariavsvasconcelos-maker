@@ -3,13 +3,14 @@
 <p align="center">
   <strong>(Direito ➔ Tecnologia)</strong><br>
    Recife, Pernambuco | contato (81) 9 8846-0621 | 27 anos 
+  
+  Pensar fora da caixa é uma ideia; viver fora dela é uma escolha!🩵
+  
 </p>
 
 ---
 
 ###  Objetivo
-
-Pensar fora da caixa é uma ideia; viver fora dela é uma escolha!🩵
 
 Almejo atuar na área de Tecnologia da Informação, contribuindo para o desenvolvimento e aprimoramento de sistemas e soluções tecnológicas eficientes e seguras. Busco aplicar meus conhecimentos em Análise e Desenvolvimento de Sistemas, colaborando com equipes na criação, análise e otimização de processos digitais. Tenho como foco agregar visão analítica, organização e compromisso com a inovação.
 
