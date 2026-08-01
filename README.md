@@ -2,12 +2,15 @@
 
 <p align="center">
   <strong>(Direito ➔ Tecnologia)</strong><br>
-   Recife, Pernambuco | contato (81) 9 8846-0621 | 26 anos 
+   Recife, Pernambuco | contato (81) 9 8846-0621 | 27 anos 
 </p>
 
 ---
 
 ###  Objetivo
+
+Pensar fora da caixa é uma ideia; viver fora dela é uma escolha!🩵
+
 Almejo atuar na área de Tecnologia da Informação, contribuindo para o desenvolvimento e aprimoramento de sistemas e soluções tecnológicas eficientes e seguras. Busco aplicar meus conhecimentos em Análise e Desenvolvimento de Sistemas, colaborando com equipes na criação, análise e otimização de processos digitais. Tenho como foco agregar visão analítica, organização e compromisso com a inovação.
 
 ---
@@ -21,8 +24,8 @@ Almejo atuar na área de Tecnologia da Informação, contribuindo para o desenvo
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css3" />
 </p>
 
-- **Foco atual:** Engenharia de Software com Python & AI Integration
-- **Diferencial:** Liderança Técnica (People Management) & English Proficiency (Worksplus).
+- **Foco atual:** Engenharia de Software com Python, Javascript, AI Integration & Software Development
+- **Diferencial:** Liderança Técnica (People Management), English Proficiency (Worksplus), Customer Experience (CX) & Customer Success (CS)
 
 ---
 
@@ -43,6 +46,15 @@ Almejo atuar na área de Tecnologia da Informação, contribuindo para o desenvo
 ---
 
 ###  Trajetória Profissional 
+
+**F12 DO BRASI**
+* iGaming.
+* Atendimento com clientes VIPs.
+* Análise de Sistemas.
+* Customer Experience (CX).
+* Customer Success (CS). 
+* Comunicação interpessoal.
+* Análise de dados e tomada de decisão.
 
 **PROCON** 
 * Atendimento pessoal ao instituto Defesa do Consumidor. 
@@ -66,16 +78,6 @@ Almejo atuar na área de Tecnologia da Informação, contribuindo para o desenvo
 * Responsável pelas documentações de Provas Comprobatórias para a Defesa. 
 * Assessoria Jurídica.
 
-**AUTO VIAÇÃO PROGRESSO**
-* Responsável pelo setor Jurídico Cível. 
-* Auxiliando Administrativamente todas as movimentações do Jurídico Interno. 
-* Responsável pelo recebimento de Mandado, Citação e Penhora. 
-* Audiências Presenciais e Semipresenciais. 
-* Gerenciamento de Subsídios Judiciais. 
-* Representante da conexão cível entre a Empresa e os Escritórios. 
-* Audiência Presencial: Direito Cível e Direito do Trabalho. 
-* Acompanhamento dos Oficiais de Justiça. 
-* Responsável pelos Acordos e Tratativas Jurídicas Operacionais, tais como: Reembolso, Extravio, Cancelamentos, Trocas de Passagens, Perda de Viagem, Acidentes com Vítima Fatal e Vítima não Fatal.
 
 **O que trago do Direito para a TI:**
 - Capacidade crítica de análise de dados e documentos.
