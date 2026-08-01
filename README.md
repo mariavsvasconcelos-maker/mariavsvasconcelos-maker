@@ -4,7 +4,8 @@
   <strong>(Direito ➔ Tecnologia)</strong><br>
    Recife, Pernambuco | contato (81) 9 8846-0621 | 27 anos 
 
-     Pensar fora da caixa é uma ideia; viver fora dela é uma escolha!🩵
+<p align="center">
+Pensar fora da caixa é uma ideia; viver fora dela é uma escolha!🩵
   
 </p>
 
