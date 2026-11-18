@@ -26,8 +26,8 @@ Almejo atuar na área de Tecnologia da Informação, contribuindo para o desenvo
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css3" />
 </p>
 
-- **Foco atual:** Engenharia de Software com Python, Javascript, AI Integration & Software Development
-- **Diferencial:** Liderança Técnica (People Management), English Proficiency (Worksplus), Customer Experience (CX) & Customer Success (CS)
+- **Foco atual:** Cibersegurança, Engenharia de Software, AI Integration & Software Development
+- **Diferencial:** LGPD & Privacidade de Dados, Riscos Compliance (GRC) & English Proficiency 
 
 ---
 
@@ -41,15 +41,18 @@ Almejo atuar na área de Tecnologia da Informação, contribuindo para o desenvo
 ---
 
 ###  Projetos em Destaque (Tech)
+
+* **Capacita+** (Classificado em terceiro lugar pelo Porto Digital - Demoday 2025) Projeto focado em Metaverso e Realidade Estendida para ensino inclusivo (alunos neurodivergentes).
 * **SmartFlora (Tech Design - CESAR School):** Desenvolvimento de um sistema hídrico inteligente.
-* **Demoday 2025 (Porto Digital - Capacita+):** Projeto focado em Metaverso e Realidade Estendida para ensino inclusivo (alunos neurodivergentes).
 * **Rocketseat:** Trilhas de desenvolvimento (CESAR School).
-* **Game - Trilha Recife:**  Game projetado na estrutura em C++, Programação Imperativo e Funcional.
+* **Game - Trilha Recife:** Game projetado na estrutura em C++, Programação Imperativo e Funcional.
+* **Rota Vital:** Aplicação web que gerencia o estoque de hemocomponentes. Competências: POO e Spring Boot; grafos e caminhos mínimos; matching de compatibilidade; filas de prioridade e hash; estatística descritiva e probabilidade aplicadas; concorrência, CI/CD e nuvem; arquitetura de redes e telemetria;
+
 ---
 
 ###  Trajetória Profissional 
 
-**F12 DO BRASI**
+**F12 DO BRASIL**
 * iGaming.
 * Atendimento com clientes VIPs.
 * Análise de Sistemas.
