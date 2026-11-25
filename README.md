@@ -85,8 +85,7 @@ Meu superpoder é unir a visão analítica do Direito com a lógica da tecnologi
 
 <div align="center">
 
-### ✨ Boas oportunidades começam com boas conversas.
-**Vamos construir essa conexão?** 🩵
+### Boas oportunidades começam com boas conversas. Vamos construir essa conexão?
 
 <a href="https://www.linkedin.com/in/maria-eduarda-vasconcelos-5877401b7"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-89CFF0?style=for-the-badge&logo=linkedin&logoColor=0D1B2A"/></a>
 
