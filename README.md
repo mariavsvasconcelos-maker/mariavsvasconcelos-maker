@@ -10,7 +10,6 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/maria-eduarda-vasconcelos-5877401b7"><img src="https://img.shields.io/badge/LinkedIn-Maria_Eduarda-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=89CFF0"/></a>
-<a href="https://wa.me/5581988460621"><img src="https://img.shields.io/badge/WhatsApp-81_98846--0621-0D1B2A?style=for-the-badge&logo=whatsapp&logoColor=89CFF0"/></a>
 <img src="https://img.shields.io/badge/Recife-PE-0D1B2A?style=for-the-badge&logo=googlemaps&logoColor=89CFF0"/>
 
 </div>
@@ -25,8 +24,6 @@ Meu foco atual é **Cibersegurança, Engenharia de Software e AI Integration & S
 
 Meu superpoder é unir a visão analítica do Direito com a lógica da tecnologia, com a missão de criar soluções eficientes, seguras e acessíveis 🩵
 
-Vim do **Direito** — passei pela Defensoria Pública de Pernambuco, pelo PROCON e pela advocacia — e hoje construo minha carreira em **tecnologia**. Trago comigo organização, análise crítica e foco em pessoas, e gosto especialmente de projetos que usam tecnologia para gerar **impacto social e acessibilidade**.
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -37,6 +34,10 @@ Vim do **Direito** — passei pela Defensoria Pública de Pernambuco, pelo PROCO
 ![Python](https://img.shields.io/badge/Python-0D1B2A?style=for-the-badge&logo=python&logoColor=89CFF0)
 ![C++](https://img.shields.io/badge/C++-0D1B2A?style=for-the-badge&logo=cplusplus&logoColor=89CFF0)
 ![HTML](https://img.shields.io/badge/HTML-0D1B2A?style=for-the-badge&logo=html5&logoColor=89CFF0)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1B2A?style=for-the-badge&logo=javascript&logoColor=89CFF0)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1B2A?style=for-the-badge&logo=typescript&logoColor=89CFF0)
+![C#](https://img.shields.io/badge/C%23-0D1B2A?style=for-the-badge&logo=dotnet&logoColor=89CFF0)
+![SQL](https://img.shields.io/badge/SQL-0D1B2A?style=for-the-badge&logo=mysql&logoColor=89CFF0)
 ![Arduino](https://img.shields.io/badge/Arduino-0D1B2A?style=for-the-badge&logo=arduino&logoColor=89CFF0)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1B2A?style=for-the-badge&logo=github&logoColor=89CFF0)
 ![VS Code](https://img.shields.io/badge/VS_Code-0D1B2A?style=for-the-badge&logo=visualstudiocode&logoColor=89CFF0)
@@ -83,15 +84,6 @@ Vim do **Direito** — passei pela Defensoria Pública de Pernambuco, pelo PROCO
 ---
 
 <div align="center">
-
-### 💬 Vamos conversar?
-
-Estou aberta a oportunidades, projetos e trocas sobre tecnologia, IA e cibersegurança.
-
-<a href="https://www.linkedin.com/in/maria-eduarda-vasconcelos-5877401b7"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-89CFF0?style=for-the-badge&logo=linkedin&logoColor=0D1B2A"/></a>
-<a href="https://wa.me/5581988460621"><img src="https://img.shields.io/badge/WhatsApp-89CFF0?style=for-the-badge&logo=whatsapp&logoColor=0D1B2A"/></a>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:89CFF0,50:1B4965,100:0D1B2A&section=footer" width="100%"/>
 
